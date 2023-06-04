@@ -1,0 +1,7 @@
+{
+  "name": "Discovery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
