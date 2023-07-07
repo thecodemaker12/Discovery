@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Dindefelo",
+    "town": {
+      "id": 1,
+      "name": "Kedougou",
+      "country": "Senegal"
+    },
+    "images": [
+      "https://images.mnstatic.com/77/cb/77cb054f9e4a3ec20c3fec557cbad853.jpg",
+      "https://images.mnstatic.com/c9/44/c944c9e896790eba6e7b84dc963015bb.jpg"
+    ],
+    "tags": ["water", "nature", "adventures"],
+    "distance": 712,
+    "rates": 5
+  },
+  {
+    "id": 2,
+    "name": "Kafory",
+    "town": {
+      "id": 1,
+      "name": "Kedougou",
+      "country": "Senegal"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/FfxlpqSWQAEQ9bN?format=jpg&name=large",
+      "https://pbs.twimg.com/media/FfxlpqUXoAgpj9e?format=jpg&name=large",
+      "https://pbs.twimg.com/media/Fvc-oonXoAAMWJl?format=jpg&name=large"
+    ],
+    "tags": ["water", "active"],
+    "distance": 769,
+    "rates": 4.5,
+    "geolocation": [-11.95129171647739, 12.4447922506368]
+  },
+  {
+    "id": 3,
+    "name": "Soumba",
+    "town": {
+      "id": 2,
+      "name": "Dubreka",
+      "country": "Guinea"
+    },
+    "images": [
+      "https://tourisme.gov.gn/storage/2023/01/photo_2022-12-28_10-57-49.jpg",
+      "https://tourisme.gov.gn/storage/2023/01/photo_2022-12-28_10-57-45.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8c/5f/99/les-cascades-de-la-soumba.jpg?w=1100&h=-1&s=1"
+    ],
+    "tags": ["water", "active", "historical"],
+    "distance": 982,
+    "rates": 5
+  },
+  {
+    "id": 5,
+    "name": "Tabouna",
+    "town": {
+      "id": 4,
+      "name": "Kindia",
+      "country": "Guinea"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/E21co4XXIAEfVAT?format=jpg&name=900x900",
+      "https://pbs.twimg.com/media/E21cunvWUAo10hU?format=jpg&name=900x900"
+    ],
+    "tags": ["nature", "adventures"],
+    "distance": 863,
+    "rates": 4.75
+  },
+  {
+    "id": 6,
+    "name": "Man",
+    "town": {
+      "id": 5,
+      "name": "Man",
+      "country": "Ivory Coast"
+    },
+    "images": [
+      "https://ocdn.eu/pulscms-transforms/1/41gk9kqTURBXy83ZjVlZGM5N2U3MGJlZDQ2ZjY2MDJmYWFjMjYxYmJkZC5qcGVnkpUDABLNBDjNAl-TBc0DFs0Brt4AAaEwBQ",
+      "https://upload.wikimedia.org/wikipedia/commons/8/84/Les_cascades_de_Man.jpg"
+    ],
+    "tags": ["adventure", "water", "nature"],
+    "distance": 1017,
+    "rates": 4
+  }
+]

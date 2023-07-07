@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Kedougou",
+    "country": "Senegal"
+  },
+  {
+    "id": 2,
+    "name": "Dubreka",
+    "country": "Guinea"
+  },
+  {
+    "id": 4,
+    "name": "Kindia",
+    "country": "Guinea"
+  },
+  {
+    "id": 5,
+    "name": "Man",
+    "country": "Ivory Coast"
+  }
+]

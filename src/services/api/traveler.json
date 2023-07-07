@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Malaminef45",
+    "avatar": "/malaminef45.jpeg",
+    "discoveries": 12,
+    "likes": 63
+  },
+  {
+    "id": 4,
+    "name": "MussaLaay",
+    "avatar": "/mussafreedesign.jpeg",
+    "discoveries": 54,
+    "likes": 208
+  },
+  {
+    "id": 3,
+    "name": "Mameeshoo",
+    "avatar": "/mameeshoo.jpeg",
+    "discoveries": 23,
+    "likes": 156
+  },
+  {
+    "id": 2,
+    "name": "BayeNdemba",
+    "avatar": "/bayendemba.jpeg",
+    "discoveries": 9,
+    "likes": 51
+  }
+]

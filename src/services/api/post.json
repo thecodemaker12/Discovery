@@ -1,0 +1,20 @@
+[
+  {
+    "poster": { "name": "Mameeshoo", "avatar": "/mameeshoo.jpeg" },
+    "date": "39 minutes ago",
+    "description": "Just visited this awesome place first time in my life. Check out the photos!",
+    "reactions": {
+      "likes": 10,
+      "comments": 5
+    }
+  },
+  {
+    "poster": { "name": "MussaLaay", "avatar": "/mussafreedesign.jpeg" },
+    "date": "7 days ago",
+    "description": "Just visited this awesome place first time in my life. Check out the photos!",
+    "reactions": {
+      "likes": 210,
+      "comments": 25
+    }
+  }
+]
